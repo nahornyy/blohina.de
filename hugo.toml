@@ -61,7 +61,6 @@ disableKinds = ["taxonomy", "term"]
 
 
         
-
       [[languages.ru.menus.main]]
         name = 'Статьи'
         pageRef = '/posts'

@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+
+
+<!-- Шапка -->
+<div class="uk-container uk-container-medium uk-margin-top">
+  {{ partial "breadcrumbs.html" . }}  
+
+  <h1 class="uk-heading-divider">{{ .Title}}</h1>
+  
+
+
+
+  <!-- выводим список новостей -->
+
+
+ 
+
+    <article class="uk-article uk-margin-remove-top">
+      
+
+      <p>{{ .Content}}</p>
+
+      <div class="uk-grid-small uk-child-width-auto" uk-grid>
+
+      </div>
+    </article>
+
+
+
+
+
+  </div>
+ 
+  
+{{ end }}
+

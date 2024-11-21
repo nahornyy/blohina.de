@@ -1,0 +1,100 @@
+baseURL = 'https://blohina.com.ua'
+defaultContentLanguage = 'uk'
+timezone = 'Europe/Kyiv'
+title = 'Адвокат Блохіна Наталія Вікторівна'
+theme = 'uikit'
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+
+
+[languages]
+  [languages.uk]
+    languageCode = 'uk'
+    languageName = "Українська"
+    title = 'Адвокат Блохіна Наталія Вікторівна'
+    weight = 1
+
+
+    [languages.uk.menus]
+      [[languages.uk.menus.main]]
+        name = 'Головна'
+        pageRef = '/'
+        weight = 10
+
+
+        
+      [[languages.uk.menus.main]]
+        name = 'Послуги'
+        url = '/#usligi'
+        weight = 20
+      [[languages.uk.menus.main]]
+        name = 'Статті'
+        pageRef = '/posts'
+        weight = 30
+      [[languages.uk.menus.main]]
+        name = 'Консультації'
+        pageRef = '/facebook'
+        weight = 40   
+      [[languages.uk.menus.main]]
+        name = 'Відео'
+        url = '/#video'
+      [[languages.uk.menus.main]]
+        name = 'Контакти'
+        url = '/#contacts'
+
+  [languages.ru]
+    languageCode = 'ru-UA'
+    
+    title = 'Адвокат Блохина Наталия Викторовна'
+    weight = 2
+    languageName = "Русский"
+    [languages.ru.menus]
+      [[languages.ru.menus.main]]
+        name = 'Главная'
+        pageRef = '/'
+        weight = 10
+      [[languages.ru.menus.main]]
+        name = 'Услуги'
+        url = '/ru/#usligi'
+        weight = 20
+
+
+        
+
+      [[languages.ru.menus.main]]
+        name = 'Статьи'
+        pageRef = '/posts'
+        weight = 30
+      [[languages.ru.menus.main]]
+        name = 'Консультации'
+        pageRef = '/facebook'
+        weight = 40   
+      [[languages.ru.menus.main]]
+        name = 'Видео'
+        url = '/ru/#video'
+      [[languages.ru.menus.main]]
+        name = 'Контакты'
+        url = '/ru/#contacts'
+
+
+
+
+[sitemap]
+  changeFreq = 'monthly'
+
+[markup]
+  [markup.goldmark]     
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true 
+
+      
+
+    [markup.goldmark.renderer]
+      unsafe = true
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"      

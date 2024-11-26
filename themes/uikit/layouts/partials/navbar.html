@@ -38,23 +38,21 @@
                     <li>
                         <a href="#">{{ T "language"}}</a>
                         <div class="uk-navbar-dropdown">
+                            {{ with .Translations }}
                             <ul class="uk-nav uk-navbar-dropdown-nav">
-                                {{ if hugo.IsMultilingual }}
-                                {{ range .Site.Languages }}
-                                {{ if eq . $.Site.Language }}
-                                <li class="uk-active"><a href="#" class="active language">{{ .LanguageName }}</a></li>
-                                {{ else }}
-                                {{ range $.Translations }}
-                                <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+                                {{ range . }}
+                                <li>
+                                    <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{ .Language.LanguageName }}</a>
+                                </li>
                                 {{ end }}
-                                {{ end }}
-                                {{ end }}
-                                {{ end }}
-                                <li><a href="https://blohina.de" class="active language">{{ T "deutsche" }}</a></li>
                             </ul>
+                            {{ end }}
                         </div>
                     </li>
                 </ul>
+
+
+
                 <div class="uk-navbar-item">
                     <ul class="uk-flex-inline uk-flex-middle uk-flex-nowrap uk-grid-small uk-grid" uk-grid="">
                         <li>
@@ -90,12 +88,13 @@
     <div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
         <nav class="uk-navbar-container uk-margin">
             <div class="uk-container">
-                <div uk-navbar >
+                <div uk-navbar>
 
 
                     <div class="uk-navbar-left">
                         <a class="uk-navbar-toggle" uk-toggle="target: #offcanvas-nav-primary" href="#">
-                            <span uk-navbar-toggle-icon></span> <span class="uk-margin-small-left uk-text-center">{{ .Site.Title}}</span>
+                            <span uk-navbar-toggle-icon></span> <span class="uk-margin-small-left uk-text-center">{{
+                                .Site.Title}}</span>
                         </a>
                     </div>
 
@@ -145,20 +144,15 @@
             <li>
                 <a href="#">{{ T "language"}}</a>
                 <div>
+                    {{ with .Translations }}
                     <ul class="uk-nav-sub">
-                        {{ if hugo.IsMultilingual }}
-                        {{ range .Site.Languages }}
-                        {{ if eq . $.Site.Language }}
-                        <li class="uk-active"><a href="#" class="active language">{{ .LanguageName }}</a></li>
-                        {{ else }}
-                        {{ range $.Translations }}
-                        <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+                        {{ range . }}
+                        <li>
+                            <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{ .Language.LanguageName }}</a>
+                        </li>
                         {{ end }}
-                        {{ end }}
-                        {{ end }}
-                        {{ end }}
-                        <li><a href="https://blohina.de" class="active language">{{ T "deutsche" }}</a></li>
                     </ul>
+                    {{ end }}
                 </div>
             </li>
         </ul>
@@ -172,8 +166,8 @@
                 </li>
                 <li>
                     <a href="https://www.instagram.com/advokat_blokhina_nataliia/"
-                        class="uk-preserve-width uk-icon-button" rel="noreferrer"><span
-                            uk-icon="icon: instagram;" class="uk-icon"></span></a>
+                        class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: instagram;"
+                            class="uk-icon"></span></a>
                 </li>
                 <li>
                     <a href="mailto:advokat.blokhina@gmail.com" class="uk-preserve-width uk-icon-button"

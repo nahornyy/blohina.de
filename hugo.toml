@@ -1,5 +1,5 @@
-baseURL = 'https://blohina.com.ua'
-defaultContentLanguage = 'uk'
+baseURL = 'https://blohina.de'
+defaultContentLanguage = 'ru'
 timezone = 'Europe/Kyiv'
 title = 'Адвокат Блохіна Наталія Вікторівна'
 theme = 'uikit'
@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
     languageCode = 'uk'
     languageName = "Українська"
     title = 'Адвокат Блохіна Наталія Вікторівна'
-    weight = 1
+    weight = 20
 
 
     [languages.uk.menus]
@@ -44,10 +44,10 @@ disableKinds = ["taxonomy", "term"]
         url = '/#contacts'
 
   [languages.ru]
-    languageCode = 'ru-UA'
+    languageCode = 'ru'
     
     title = 'Адвокат Блохина Наталия Викторовна'
-    weight = 2
+    weight = 10
     languageName = "Русский"
     [languages.ru.menus]
       [[languages.ru.menus.main]]
@@ -57,10 +57,7 @@ disableKinds = ["taxonomy", "term"]
       [[languages.ru.menus.main]]
         name = 'Услуги'
         url = '/ru/#usligi'
-        weight = 20
-
-
-        
+        weight = 20      
       [[languages.ru.menus.main]]
         name = 'Статьи'
         pageRef = '/posts'
@@ -75,6 +72,73 @@ disableKinds = ["taxonomy", "term"]
       [[languages.ru.menus.main]]
         name = 'Контакты'
         url = '/ru/#contacts'
+
+
+  [languages.en]
+    languageCode = 'en'
+    title = 'Advocate Blokhina Natalia Viktorivna'
+    weight = 30
+    languageName = "English"
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Main'
+        pageRef = '/'
+        weight = 10
+      [[languages.en.menus.main]]
+        name = 'Services'
+        url = '/en/#usligi'
+        weight = 20
+
+
+        
+      [[languages.en.menus.main]]
+        name = 'Articles'
+        pageRef = '/posts'
+        weight = 40
+      [[languages.en.menus.main]]
+        name = 'Consultations'
+        pageRef = '/facebook'
+        weight = 40   
+      [[languages.en.menus.main]]
+        name = 'Video'
+        url = '/en/#video'
+      [[languages.en.menus.main]]
+        name = 'Contacts'
+        url = '/en/#contacts'
+
+  [languages.de]
+    languageCode = '40'
+    title = 'Advocate Blokhina Natalia Viktorivna'
+    weight = 50
+    languageName = "Deutsch"
+    [languages.de.menus]
+      [[languages.de.menus.main]]
+        name = 'Main'
+        pageRef = '/'
+        weight = 10
+      [[languages.de.menus.main]]
+        name = 'Services'
+        url = '/de/#usligi'
+        weight = 20
+
+
+        
+      [[languages.de.menus.main]]
+        name = 'Articles'
+        pageRef = '/posts'
+        weight = 30
+      [[languages.de.menus.main]]
+        name = 'Consultations'
+        pageRef = '/facebook'
+        weight = 40   
+      [[languages.de.menus.main]]
+        name = 'Video'
+        url = '/de/#video'
+      [[languages.de.menus.main]]
+        name = 'Contacts'
+        url = '/de/#contacts'
+
+
 
 
 

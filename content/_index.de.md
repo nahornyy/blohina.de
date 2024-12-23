@@ -1,19 +1,23 @@
 +++
-title = 'Головна'
-subtitle = 'Адвокат'
-banner1_1 = 'Адвокат'
-banner1_2 = 'Блохіна Наталія Вікторівна'
-banner2_1 = 'Золоте правило захисту:'
-banner2_2 = 'Чим раніше Ви звернетесь за юридичною допомогою адвоката, тим швидше і простіше розв’яжеться Ваша проблема.'
+title = 'Hauptseite'
+subtitle = 'Rechtsanwalt'
+banner1_1 = 'Rechtsanwalt'
+banner1_2 = 'Blokhina Natalia Viktorivna'
+banner2_1 = 'Goldene Schutzregel:'
+banner2_2 = 'Je früher Sie auf die Rechtshilfe eines Anwalts zurückgreifen, desto schneller und einfacher wird Ihr Problem gelöst'
 +++
-Кожен обвинувачений, незалежно від тяжкості злочину і галузі права, потребує якісного захисту. Адвокат і є саме тим представником перед третіми особами, який його здійснює. Він допоможе правильно скласти позов, відзив на позовну заяву, надасть роз’яснення, позбавить незрозумілого паперового клопоту, допоможе пом’якшити вирок або ж досягти звільнення від відповідальності зовсім.
+Jeder Mensch braucht in einem bestimmten Lebensabschnitt qualifizierten rechtlichen Beistand, Schutz oder Vertretung.
 
-Супровід адвоката необхідний впродовж усього судового процесу в судах усіх інстанцій, будь то районні, міські, апеляційні чи касаційні суди. Це допоможе підвищити ефективність захисту та ймовірність отримання позитивного результату.
+Der Rechtsanwalt (lat. advocatus – von advoco – einladen) ist eine Person, deren Aufgabe darin besteht, kompetenten Rechtsbeistand für natürliche (Bürger, Staatenlose) und juristische Personen (Organisationen), einschließlich den Schutz ihrer Rechte und deren Vertretung vor Gericht zu leisten, die in der vorgeschriebenen Weise den Status eines Rechtsanwalts erhalten hat. Die Anwaltschaft als Beruf ist seit der Antike bekannt.
 
-Адвокат, в разі потреби, може долучитися до справи на будь-якому етапі. Найчастіше залучення юриста на пізніх етапах відбувається через недбалість обвинувачених. Адвокат захищає обвинувачену сторону.
+Anwalt zu sein bedeutet, verantwortungsbewusst und gewissenhaft die Rechte und Interessen seiner Mandanten zu verteidigen und Lösungen rasch zu finden, von denen der Ausgang eines Falles abhängt. Man sollte so früh wie möglich Kontakt zu einem Anwalt aufnehmen. So können Sie viele Fehler vermeiden und nicht zulassen, dass wertvolle Informationen verloren gehen.
 
-Крім того, він також може представляти правайа та інтереси й потерпілого. Для досягнення бажаного результату адвокат залучається до справ з боку суб’єкта. Він проводить консультації на предмет застосування законодавства, захищає та представляє інтереси на стадії досудового розслідування, займається документацією та збором доказів, безпосередньо бере участь у судовому засіданні задля якісного захисту інтересів свого клієнта, сприяє отриманню виконавчого листа і подальшому його поданню у виконавчій службі.
+Denken Sie daran, dass ein regelmäßiger Kontakt mit einem professionellen Rechtsanwalt oder Juristen in jeder Situation eine Überhöhungsmaßnahme ist! In den meisten Fällen wird die Einschaltung eines Anwalts zu einem späteren Zeitpunkt zugelassen, weil die den rechtlichen Beistand benötigenden Personen selbst unvorsichtig sind. Der Rechtsanwalt ist solche Person, die Sie vor Dritten vertritt und verteidigt. Er würde bei der korrekten Geltendmachung eines Anspruchs, bei der Überprüfung der Klageschriften, des Vertrags, der Forderung helfen, Erklärungen und Ratschläge geben, von unverständlichen Papieren befreien, gegen die Entscheidung appellieren, zur Strafmilderung beitragen oder ganz von der Haftung retten. Die Unterstützung eines Anwalts ist angefangen bei der Beratung und während des gesamten Prozesses vor den Gerichten aller Instanzen, sowohl vor den Bezirks-, Stadt-, Appellations- als auch Kassationsgerichten notwendig. Dies trägt dazu bei, die Wirksamkeit der Verteidigung und die Wahrscheinlichkeit eines positiven Ergebnisses zu erhöhen.
 
-Блохіна Наталія займається успішною юридичною діяльністю з 2002 року, а адвокатською – з 2008 року. Надає кваліфіковані послуги адвоката в Україні та країнах Євросоюзу у вигляді консультацій, захисту у суді та представництва фізичних та юридичних осіб.
+Der Anwalt kann nach Bedarf in jeder Phase des Verfahrens eingeschaltet werden. Durch die frühzeitige Inanspruchnahme der Anwaltsdienste können Sie viele negative Folgen in der Zukunft vermeiden und schneller zu für den Mandanten günstigeren Bedingungen zu einer Entscheidung kommen.
 
-Адвокат Блохіна Наталія вибудовує лінію свого захисту в рамках поваги до моральності та моралі в суспільстві, постійно вдосконалює свої професійні навички, бере участь у правовому просвітництві громадян, має заслужений авторитет, має низку подяк та нагород, у тому числі, орден «Слава України» за служіння законам України.
+Natalia Blokhina ist seit 2002 und seit 2008 erfolgreich als Rechtsanwältin tätig. Bietet qualifizierte Rechtsdienstleistungen in der Ukraine und der Europäischen Union in Form von Beratungen, Verteidigung vor Gericht und Vertretung von natürlichen und juristischen Personen.
+
+Die Rechtsanwältin Blokhina Natalia baut ihre Verteidigungslinie im Rahmen der Achtung der Moral und Ethik in der Gesellschaft auf, verbessert ständig ihre beruflichen Fähigkeiten, beteiligt sich an der juristischen Ausbildung der Bürger, verfügt über wohlverdiente Autorität und hat eine Reihe von Auszeichnungen und Auszeichnungen erhalten, darunter die Orden des Ruhmes der Ukraine für die Einhaltung der Gesetze der Ukraine.
+
+Denken Sie daran, dass ein regelmäßiger Kontakt mit einem professionellen Rechtsanwalt oder Juristen in jeder Situation eine proaktive Maßnahme ist!

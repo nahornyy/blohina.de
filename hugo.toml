@@ -109,34 +109,34 @@ disableKinds = ["taxonomy", "term"]
 
   [languages.de]
     languageCode = '40'
-    title = 'Advocate Blokhina Natalia Viktorivna'
+    title = 'Blokhina Natalia Viktorovna Rechtsanwalt'
     weight = 50
     languageName = "Deutsch"
     [languages.de.menus]
       [[languages.de.menus.main]]
-        name = 'Main'
+        name = 'Hauptseite'
         pageRef = '/'
         weight = 10
       [[languages.de.menus.main]]
-        name = 'Services'
+        name = 'Dienstleistungen'
         url = '/de/#usligi'
         weight = 20
 
 
         
       [[languages.de.menus.main]]
-        name = 'Articles'
+        name = 'Artikel'
         pageRef = '/posts'
         weight = 30
       [[languages.de.menus.main]]
-        name = 'Consultations'
+        name = 'Beratung'
         pageRef = '/facebook'
         weight = 40   
       [[languages.de.menus.main]]
         name = 'Video'
         url = '/de/#video'
       [[languages.de.menus.main]]
-        name = 'Contacts'
+        name = 'Kontakte'
         url = '/de/#contacts'
 
 

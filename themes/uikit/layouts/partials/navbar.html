@@ -42,9 +42,11 @@
                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                 {{ range . }}
                                 <li>
-                                    <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{ .Language.LanguageName }}</a>
+                                    <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{
+                                        .Language.LanguageName }}</a>
                                 </li>
                                 {{ end }}
+                                <li><a href="https://blohina.com.ua" class="active language">{{ T "ukrainian" }}</a></li>
                             </ul>
                             {{ end }}
                         </div>
@@ -68,7 +70,7 @@
                             <a href="mailto:advokat.blokhina@gmail.com" class="uk-preserve-width uk-icon-button"
                                 rel="noreferrer"><span uk-icon="icon: mail;" class="uk-icon"></span></a>
                         </li>
-
+                        
 
                     </ul>
                 </div>
@@ -134,6 +136,7 @@
                                 </a>
                             </li>
                             {{ end }}
+                            
                         </ul>
                     </div>
                 </div>
@@ -148,9 +151,11 @@
                     <ul class="uk-nav-sub">
                         {{ range . }}
                         <li>
-                            <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{ .Language.LanguageName }}</a>
+                            <a href="{{ .RelPermalink }}" hreflang="{{ .Language.LanguageCode }}">{{
+                                .Language.LanguageName }}</a>
                         </li>
                         {{ end }}
+                        <li><a href="https://blohina.com.ua" class="active language">{{ T "ukrainian" }}</a></li>
                     </ul>
                     {{ end }}
                 </div>

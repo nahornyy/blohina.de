@@ -10,6 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [languages]
   [languages.uk]
+    disabled = true
     languageCode = 'uk'
     languageName = "Українська"
     title = 'Адвокат Блохіна Наталія Вікторівна'
@@ -56,7 +57,7 @@ disableKinds = ["taxonomy", "term"]
         weight = 10
       [[languages.ru.menus.main]]
         name = 'Услуги'
-        url = '/ru/#usligi'
+        url = '/#usligi'
         weight = 20      
       [[languages.ru.menus.main]]
         name = 'Статьи'
@@ -68,10 +69,10 @@ disableKinds = ["taxonomy", "term"]
         weight = 40   
       [[languages.ru.menus.main]]
         name = 'Видео'
-        url = '/ru/#video'
+        url = '/#video'
       [[languages.ru.menus.main]]
         name = 'Контакты'
-        url = '/ru/#contacts'
+        url = '/#contacts'
 
 
   [languages.en]

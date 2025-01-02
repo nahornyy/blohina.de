@@ -1,4 +1,4 @@
-baseURL = 'https://blohina.de'
+baseURL = 'https://new.blohina.de'
 defaultContentLanguage = 'ru'
 timezone = 'Europe/Kyiv'
 title = 'Адвокат Блохіна Наталія Вікторівна'
@@ -109,7 +109,7 @@ disableKinds = ["taxonomy", "term"]
 
   [languages.de]
     languageCode = '40'
-    title = 'Blokhina Natalia Viktorovna Rechtsanwalt'
+    title = 'Blokhina Natalia Advokat aus der Ukraine'
     weight = 50
     languageName = "Deutsch"
     [languages.de.menus]

@@ -8,7 +8,7 @@ banner2_2 = 'Je früher Sie auf die Rechtshilfe eines Anwalts zurückgreifen, de
 +++
 Jeder Mensch braucht in einem bestimmten Lebensabschnitt qualifizierten rechtlichen Beistand, Schutz oder Vertretung.
 
-Der Advokat aus der Ukrainet (lat. advocatus – von advoco – einladen) ist eine Person, deren Aufgabe darin besteht, kompetenten Rechtsbeistand für natürliche (Bürger, Staatenlose) und juristische Personen (Organisationen), einschließlich den Schutz ihrer Rechte und deren Vertretung vor Gericht zu leisten, die in der vorgeschriebenen Weise den Status eines Rechtsanwalts erhalten hat. Die Anwaltschaft als Beruf ist seit der Antike bekannt.
+Der Advokat (lat. advocatus – von advoco – einladen) ist eine Person, deren Aufgabe darin besteht, kompetenten Rechtsbeistand für natürliche (Bürger, Staatenlose) und juristische Personen (Organisationen), einschließlich den Schutz ihrer Rechte und deren Vertretung vor Gericht zu leisten, die in der vorgeschriebenen Weise den Status eines Rechtsanwalts erhalten hat. Die Anwaltschaft als Beruf ist seit der Antike bekannt.
 
 Anwalt zu sein bedeutet, verantwortungsbewusst und gewissenhaft die Rechte und Interessen seiner Mandanten zu verteidigen und Lösungen rasch zu finden, von denen der Ausgang eines Falles abhängt. Man sollte so früh wie möglich Kontakt zu einem Anwalt aufnehmen. So können Sie viele Fehler vermeiden und nicht zulassen, dass wertvolle Informationen verloren gehen.
 

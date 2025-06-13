@@ -17,6 +17,11 @@ Denken Sie daran, dass ein regelmäßiger Kontakt mit einem professionellen Advo
 Der Advokat kann nach Bedarf in jeder Phase des Verfahrens eingeschaltet werden. Durch die frühzeitige Inanspruchnahme der Anwaltsdienste können Sie viele negative Folgen in der Zukunft vermeiden und schneller zu für den Mandanten günstigeren Bedingungen zu einer Entscheidung kommen.
 
 Natalia Blokhina ist seit 2002 und seit 2008 erfolgreich als Advokatin tätig. Bietet qualifizierte Rechtsdienstleistungen in der Ukraine und der Europäischen Union in Form von Beratungen, Verteidigung vor Gericht und Vertretung von natürlichen und juristischen Personen.
+
+Seit 2025 — Mitglied der Rechtsanwaltskammer Köln (Deutschland).
+Zudem Mitglied der Bonner Anwaltsvereinigung.
+Offiziell als Advokat (Ukraine) bei der Rechtsanwaltskammer Köln gemäß § 206 BRAO registriert und berechtigt, in Deutschland in den entsprechenden Rechtsgebieten tätig zu sein – mit dem Schwerpunkt auf dem Schutz der Rechte und Interessen ukrainischer Staatsangehöriger.
+
 Die Advokatin aus der Ukraine Blokhina Natalia baut ihre Verteidigungslinie im Rahmen der Achtung der Moral und Ethik in der Gesellschaft auf, verbessert ständig ihre beruflichen Fähigkeiten, beteiligt sich an der juristischen Ausbildung der Bürger, verfügt über wohlverdiente Autorität und hat eine Reihe von Auszeichnungen und Auszeichnungen erhalten, darunter die Orden des Ruhmes der Ukraine für die Einhaltung der Gesetze der Ukraine.
 
 Denken Sie daran, dass ein regelmäßiger Kontakt mit einem professionellen Advokaten aus der Ukraine oder Juristen in jeder Situation eine proaktive Maßnahme ist!

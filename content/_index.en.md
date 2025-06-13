@@ -20,6 +20,10 @@ Support of a lawyer is necessary, starting with the provision of advice and thro
 
 The lawyer, if necessary, can get involved in the case at any stage. Resorting to the services of a lawyer at an earlier stage, you can avoid many negative consequences in the future and more quickly come to a decision on more favorable conditions for the client.
 
+Since 2025 — Member of the Cologne Bar Association (Germany).
+Also a member of the Bonn Lawyers’ Association.
+Officially registered as an attorney with the Cologne Bar Association pursuant to § 206 BRAO and authorized to practice law in Germany in relevant areas, with a focus on protecting the rights and interests of Ukrainian citizens.
+
 Natalia Blokhina has been successfully practicing law since 2002, and practicing law since 2008. Provides qualified legal services in Ukraine and the European Union in the form of consultations, defense in court and representation of individuals and legal entities.
 
 Lawyer Blokhina Natalia builds her line of defense within the framework of respect for morality and ethics in society, constantly improves her professional skills, participates in the legal education of citizens, has well-deserved authority, has a number of commendations and awards, including the Order of Glory of Ukraine for serving the laws Ukraine.

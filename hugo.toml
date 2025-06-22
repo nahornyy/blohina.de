@@ -90,6 +90,10 @@ disableHugoGeneratorInject = true
         pageRef = '/'
         weight = 10
       [[languages.en.menus.main]]
+        name = 'Qualifications'
+        url = '/en/#qalification'
+        weight = 15  
+      [[languages.en.menus.main]]
         name = 'Services'
         url = '/en/#usligi'
         weight = 20
@@ -121,6 +125,10 @@ disableHugoGeneratorInject = true
         name = 'Hauptseite'
         pageRef = '/'
         weight = 10
+      [[languages.de.menus.main]]
+        name = 'Qualifikation'
+        url = '/de/#qalification'
+        weight = 15  
       [[languages.de.menus.main]]
         name = 'Dienstleistungen'
         url = '/de/#usligi'
